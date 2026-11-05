@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-liberu-control-panel-react-inertia",
+  "capabilityKey": "liberusoftware/billing-liberu-control-panel",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-billing-liberu-control-panel-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/billing/nextjs/module-billing-liberu-control-panel.md",
+  "presentationPlan": "projects/billing/react/module-billing-liberu-control-panel.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
